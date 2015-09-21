@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecondTry</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="mensajeboton">¡Pulsa!</string>
+	<string name="textviewCaja2">El mensaje aparecerá aqui al revés</string>
+	<string name="editextCaja1">Escribe..</string>
+	<string name="menu1">google</string>
+	<string name="menu2">facebook</string>
+	<string name="menu3">TWITTER</string>
+	<string name="menuUno">google2</string>
+	<string name="menuDos">facebook2</string>
+	<string name="menuTres">TWITTER2</string>
+	
+</resources>
